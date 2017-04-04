@@ -1,2 +1,2 @@
 # CodeChef.com-problems
-Studying CodeChed.com problems.
+Studying CodeChef.com problems.
