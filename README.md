@@ -2,4 +2,5 @@
 Studying CodeChef.com problems.
 
 Problems committed so far:
-  CHEFBEST
+
+  CHEFBEST - https://www.codechef.com/problems/CHEFBEST
